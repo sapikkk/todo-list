@@ -12,8 +12,8 @@ defineProps({
     <h1 class="green">{{ msg }}</h1>
     <h3>
       Selamat datang di Aplikasi To-Do List Syafiq<br>
-      <a href="https://www.instagram.com/tegarraihann.a/" target="_blank" rel="noopener"><img src="../assets/instagram.svg" alt=""></a> 
-      <a href="https://vuejs.org/" target="_blank" rel="noopener"><img src="../assets/github.svg" alt=""></a>.
+      <a href="https://www.instagram.com/" target="_blank" rel="noopener"><img src="../assets/instagram.svg" alt=""></a> 
+      <a href="https://github.com/sapikkk/todo-list" target="_blank" rel="noopener"><img src="../assets/github.svg" alt=""></a>.
     </h3>
   </div>
 </template>
